@@ -1,0 +1,7 @@
+start=
+  element component {
+    element silk-version { text },
+    element package { text },
+    element id { text },
+    element description { text }
+  }
