@@ -1,3 +1,5 @@
+default namespace = "http://www.bheap.co.uk/xml/ns/silk/component/0.1.0"
+
 start=
   element component {
     element silk-version { text },
