@@ -1,4 +1,4 @@
-<component xmlns="http://www.bheap.co.uk/xml/ns/silk/component/0.1.0">
+<component xmlns="http://www.bheap.co.uk/resource/xml/ns/silk/component/0.1.0">
   <silk-version>0.1.0</silk-version>
   <package>com.bheap.silk</package>
   <id>component-missing</id>
