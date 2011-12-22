@@ -1,6 +1,9 @@
-<component xmlns="http://www.bheap.co.uk/resource/xml/ns/silk/component/0.1.0">
-  <silk-version>0.1.0</silk-version>
-  <package>com.bheap.silk</package>
-  <id>component-missing</id>
-  <description>A default missing component placeholder/warning.</description>
-</component>
+# namespace = "http://www.bheap.co.uk/resource/ns/silk/component/0.1.0"
+
+# defines the composition of a component
+
+component.silk-version="0.1.0"
+component.package=com.bheap.silk
+component.id=component-missing
+component.description="A default missing component placeholder/warning."
+component.theme=none
