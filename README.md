@@ -8,7 +8,7 @@ Build whatever components you need, complement the limited core complements bund
 ## how to build a component
 ### manually
 
-* have a look at the handful of samples under com/bheap/silk
+* have a look at the handful of samples under org/silkyweb
 * find or create a package directory to place your component in
   * placing components in packages helps guarantee uniqueness
 * name your component something sensible
@@ -17,11 +17,11 @@ Build whatever components you need, complement the limited core complements bund
 * create a directory with the same name as the version of Silk you are using
   * just use the major.minor.patch ie 0.1.0
 * create the required .dna config directory
-* add a dna.conf definition to .dna, see the examples under com/bheap/silk
+* add a dna.conf definition to .dna, see the examples under org/silkyweb
   * check your package value is the same as the directory hierarchy you have placed your component in
   * silk-version is the version of Silk the template has been built and tested against
   * it is useful to add a quick description of the purpose of the component
-* add the component see the examples under /com/bheap/silk
+* add the component see the examples under /org/silkyweb
   * ensure the filename is the same as the component's name
   * ensure it has an id along the lines of silk-component:component-filename
 * test your component by including it in a silk site and 'spinning'
