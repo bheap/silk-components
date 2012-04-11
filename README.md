@@ -19,7 +19,7 @@ Build whatever components you need, complement the limited core complements bund
 * create the required .dna config directory
 * add a dna.conf definition to .dna, see the examples under org/silkyweb
   * check your package value is the same as the directory hierarchy you have placed your component in
-  * silk-version is the version of Silk the template has been built and tested against
+  * silk-version is the version of Silk the component has been built and tested against
   * it is useful to add a quick description of the purpose of the component
 * add the component see the examples under /org/silkyweb
   * ensure the filename is the same as the component's name
