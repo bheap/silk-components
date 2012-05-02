@@ -28,10 +28,10 @@ Build whatever components you need, complement the limited core complements bund
 
 ### or with silk
 
-* 'silk component-clone some-component'
+* 'silk clone-component some-component'
 * modify the .dna/dna.conf file to suit
 * rename and modify the component file to suit 
-* in your component's parent directory 'silk component-install'
+* in your component's parent directory 'silk install-component'
 
 
 ## how to contribute
